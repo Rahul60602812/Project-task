@@ -21,7 +21,7 @@ public class Armstrong {
 else
 		System.out.println("Number is not Armstrong");
 	
-		
+		System.out.println("program is terminated");
 	}
 
 }
